@@ -13,7 +13,7 @@ A project made with AJAX techniques
 
 <br>
 
-## What is AJAX ?
+## What is the AJAX ?
 
 AJAX is a set of web development techniques. AJAX runs asynchronously. 
 As a result, any web application using AJAX can send and receive data without needing
