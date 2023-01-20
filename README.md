@@ -1,7 +1,10 @@
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg)
+<p align="center">
+  <img src="readme-source/logo2.png" width="500" height="">
+</p>
 
 <br>
+
 
     
 # AJAX
