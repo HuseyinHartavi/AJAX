@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="readme-source/logo2.png" width="500" height="">
+  <img src="readme-source/logo2.png" width="400" height="">
 </p>
 
 <br>
